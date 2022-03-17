@@ -1,0 +1,9 @@
+.countrise{
+    margin: 10px;
+    background-color: rgba(248, 207, 156, 0.945);
+    padding: 10px;
+    border-radius: 10px;
+}
+.countrise img{
+    width: 180px;
+}
